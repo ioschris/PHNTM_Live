@@ -9,7 +9,6 @@ C:\Users\crhar\OneDrive\Documents\GitHub\PHNTM_Live\PHNTM_Live\obj\Debug\netcore
 C:\Users\crhar\OneDrive\Documents\GitHub\PHNTM_Live\PHNTM_Live\obj\Debug\netcoreapp2.1\PHNTM_Live.csproj.CoreCompileInputs.cache
 C:\Users\crhar\OneDrive\Documents\GitHub\PHNTM_Live\PHNTM_Live\obj\Debug\netcoreapp2.1\PHNTM_Live.RazorAssemblyInfo.cache
 C:\Users\crhar\OneDrive\Documents\GitHub\PHNTM_Live\PHNTM_Live\obj\Debug\netcoreapp2.1\PHNTM_Live.RazorAssemblyInfo.cs
-C:\Users\crhar\OneDrive\Documents\GitHub\PHNTM_Live\PHNTM_Live\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\crhar\OneDrive\Documents\GitHub\PHNTM_Live\PHNTM_Live\obj\Debug\netcoreapp2.1\PHNTM_Live.AssemblyInfoInputs.cache
 C:\Users\crhar\OneDrive\Documents\GitHub\PHNTM_Live\PHNTM_Live\obj\Debug\netcoreapp2.1\PHNTM_Live.AssemblyInfo.cs
 C:\Users\crhar\OneDrive\Documents\GitHub\PHNTM_Live\PHNTM_Live\obj\Debug\netcoreapp2.1\PHNTM_Live.TagHelpers.input.cache
